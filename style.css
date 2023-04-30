@@ -94,7 +94,7 @@
 
 @keyframes jump {
 	0% {
-		bottom: 50%;
+		bottom: 20%;
 		left: 0;
 	}
 
@@ -163,7 +163,7 @@
 
 	100% {
 		transform: translateX(-100%);
-		bottom: 50%;
+		bottom: 20%;
 		left: 100%;
 		background-color: steelblue;
 	}
